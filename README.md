@@ -1,87 +1,80 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+# Career Goals Reflection 
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Esteban D'Emiljo**
+- **Date: 16 March 2025**
+- **Current Role/Position: Software Developer Student**
+- **Field of Interest: Software Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
+    - Soft Skills:   - Problem-Solving
+                     - Leadership & Teamwork
+                     - Collaboration
+                     - Attention to Detail
+                     - Creativity & Innovation
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Hard Skills:   - Computer Literate    
+
+    - Skills to develop or improve:   - Critical Thinking
+                                      - Project Management
+      
+3. **Interests and Values**:
+    
+    - I wish to be able to create websites and do programming for multiple types of companies, improve my portfolio and climb my way up in the programming industry. 
+    - Important values for a work environment: - Communication - Trust - Project and Time management - Respect and Inclusivity - Continuous Improvement
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Sofware Developer - Game Developer - Mobile App Developer - Front-End Developer - Back-End Developer
+    - Areas of interest: - Front-End Developer and Back-End Developer - Mobile App Developer
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - With my current skills, I am still a bit away from reaching my career goals, yet every weekly improvement is another step closer to my goals. My interests and values fit this career path and knowing I         have these values and interests, inspires me to continue improving.
+    - I still need experience in coding.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Finnish my studies with CodeSpace - Build up a respectful portfolio - Gain experience in coding by working on large projects
+    - I will finish my studies according to the time given to do so. While working on smaller projects within my studies, I will be able to build up my portfolio. After my studies, I will have the time to         partake in larger coding competitions and projects, which I will be able to add to my portfolio. 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - I will one day want to be able to work for a large company or build my own business from the ground up, where others work under me. I would like to be respected in the coding industry and have a well-       built reputation.
+    - This long-term goal fits well with my interests and skills. If I had my own company or worked with a team, my skills in communication and teamwork would blossom, and I would be able to use these and         other skills to reach my full potential. Since working with a team is my goal, this aligns well with my interests.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Finish my studies with CodeSpace by staying dedicated, self-disciplined, and making good use of time management and their resources.
+    - Build up a respectful portfolio by adding all my accomplished projects to it, as well as making use of portfolio applications such as LinkedIn.
+    - Gain experience by partaking in coding challenges online, through CodeSpace events, or the CodingSloth challenges.
+    
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - I will have to make use of continuous learning and develop my coding skills further by learning other programming languages such as Python or C++.
+    - I will have to use skills such as communication and dedication to achieve my goals and create my own business or work under a large corporation.
+    - I will have to get a degree in my field, as well as most likely other degrees, to build up my portfolio.
+    - When I achieve my goals, I will need to make use of teamwork and communication to lead a team successfully.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Even though I can see the path ahead, there will still be challenges, such as missed opportunities, tiring work, and lots of dedication needed to succeed. I will have to improve myself constantly, or        else the competition in my field will beat me to job opportunities and other advancements. That’s why I must stay dedicated, endure through it all, work hard, and use all resources available to me to        ensure that I become successful. Strategies I would use to ensure this include setting up my short- and long-term goals, ensuring good time management, and developing good habits to keep me motivated.
+      
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - To ensure I constantly improve, I will make good use of networking, having my name known, and being respected in my field. I will reference back to my mentors and ask their advice in times of need,          ensuring that I receive the right wisdom and knowledge to handle different types of situations. I will use continuous learning throughout my life, grabbing onto all educational opportunities, ensuring       that I grow in my field and, thus, my career.
+    
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
