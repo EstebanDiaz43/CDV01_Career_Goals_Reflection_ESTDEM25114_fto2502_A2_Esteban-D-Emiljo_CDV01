@@ -32,7 +32,7 @@
 
 1. **Industries and Roles Explored**:
     
-    - Sofware Developer - Game Developer - Mobile App Developer - Front-End Developer - Back-End Developer
+    - Software Developer - Game Developer - Mobile App Developer - Front-End Developer - Back-End Developer
     - Areas of interest: - Front-End Developer and Back-End Developer - Mobile App Developer
 2. **Alignment with Personal Profile**:
     
